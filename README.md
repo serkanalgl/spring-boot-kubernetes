@@ -9,8 +9,8 @@ example:
 ```
 <server>
 	<id>docker-hub</id>
-	<username>YOUR DOCKER USERNAME</username>
-	<password>YOUR DOCKER PASSWORD</password>
+	<username>YOUR DOCKER HUB USERNAME</username>
+	<password>YOUR DOCKER HUB PASSWORD</password>
 	<configuration>
 		<email>sample@sample.com</email>
 	</configuration>
