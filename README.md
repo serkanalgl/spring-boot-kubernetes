@@ -6,6 +6,7 @@ Spring Boot with kubernetes
 
 example: 
 
+```
 <server>
 	<id>docker-hub</id>
 	<username>YOUR DOCKER USERNAME</username>
@@ -14,6 +15,8 @@ example:
 		<email>sample@sample.com</email>
 	</configuration>
 </server>
+```
+
 
 
 2-) I used kubernetes ingress for single enpoint (gateway). Please add host "kube.all" to your /etc/hosts file with your Minikube ip.
