@@ -1,5 +1,5 @@
 # spring-boot-kubernetes
-Spring Boot with kubernetes
+Spring Boot Microservices with kubernetes
 
 
 1-) add a new server configuration to maven setting.xml ( it's required because of publish docker images )
