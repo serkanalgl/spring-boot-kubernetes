@@ -19,7 +19,7 @@ example:
 
 
 
-2-) I used kubernetes ingress for single enpoint (gateway). Please add host "kube.all" to your /etc/hosts file with your Minikube ip.
+2-) I used kubernetes ingress for single enpoint (gateway). Please add host "kube.all" to your /etc/hosts file with your Minikube ip (probably 192.168.99.100).
 
 3-) execute /src/main/scripts/build.sh or execute "mvn clean install docker:build -DpushImage" for each maven sub-modules (todo and user) 
 
